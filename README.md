@@ -7,11 +7,13 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
