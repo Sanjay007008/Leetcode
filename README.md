@@ -28,6 +28,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sanjay007008/Leetcode/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Sanjay007008/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
@@ -47,4 +48,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sanjay007008/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
