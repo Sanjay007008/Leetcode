@@ -8,6 +8,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjay007008/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Sanjay007008/Leetcode/tree/master/0118-pascals-triangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -58,4 +59,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sanjay007008/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Sanjay007008/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
