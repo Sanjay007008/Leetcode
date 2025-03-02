@@ -12,6 +12,7 @@ Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/Sanjay007008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sanjay007008/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjay007008/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjay007008/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sanjay007008/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjay007008/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +70,7 @@ Leetcode Solutions
 | ------- |
 | [0048-rotate-image](https://github.com/Sanjay007008/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjay007008/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjay007008/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjay007008/Leetcode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sanjay007008/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
