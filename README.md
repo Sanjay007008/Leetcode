@@ -12,6 +12,7 @@ Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/Sanjay007008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sanjay007008/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjay007008/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sanjay007008/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjay007008/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -53,6 +54,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sanjay007008/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
@@ -77,6 +79,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sanjay007008/Leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
