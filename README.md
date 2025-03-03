@@ -44,6 +44,7 @@ Leetcode Solutions
 | ------- |
 | [0048-rotate-image](https://github.com/Sanjay007008/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sanjay007008/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sanjay007008/Leetcode/tree/master/0062-unique-paths) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Sanjay007008/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
@@ -83,6 +84,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjay007008/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sanjay007008/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Sanjay007008/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjay007008/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -99,4 +101,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sanjay007008/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sanjay007008/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
