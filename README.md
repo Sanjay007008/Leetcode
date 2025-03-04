@@ -27,6 +27,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjay007008/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay007008/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sanjay007008/Leetcode/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sanjay007008/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
 |  |
@@ -114,4 +116,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay007008/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
