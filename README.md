@@ -80,6 +80,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sanjay007008/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -120,4 +121,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
