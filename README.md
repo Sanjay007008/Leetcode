@@ -82,6 +82,7 @@ Leetcode Solutions
 | [0021-merge-two-sorted-lists](https://github.com/Sanjay007008/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sanjay007008/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Leetcode Solutions
 | [0018-4sum](https://github.com/Sanjay007008/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanjay007008/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -128,5 +130,10 @@ Leetcode Solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sanjay007008/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
