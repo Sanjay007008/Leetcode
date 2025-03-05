@@ -8,6 +8,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Sanjay007008/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sanjay007008/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sanjay007008/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sanjay007008/Leetcode/tree/master/0053-maximum-subarray) |
@@ -101,6 +102,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sanjay007008/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sanjay007008/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sanjay007008/Leetcode/tree/master/0141-linked-list-cycle) |
