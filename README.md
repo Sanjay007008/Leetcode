@@ -29,6 +29,7 @@ Leetcode Solutions
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Leetcode Solutions
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 ## String
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Leetcode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 ## Linked List
 |  |
 | ------- |
