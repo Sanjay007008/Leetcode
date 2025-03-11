@@ -27,6 +27,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/Sanjay007008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Sanjay007008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
@@ -147,6 +148,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Sanjay007008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 ## Linked List
