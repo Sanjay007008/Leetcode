@@ -58,6 +58,7 @@ Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/Sanjay007008/Leetcode/tree/master/0013-roman-to-integer) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sanjay007008/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanjay007008/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/Sanjay007008/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Leetcode Solutions
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanjay007008/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/Sanjay007008/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Linked List
 |  |
 | ------- |
