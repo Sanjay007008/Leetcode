@@ -32,6 +32,7 @@ Leetcode Solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sanjay007008/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Leetcode Solutions
 | [0169-majority-element](https://github.com/Sanjay007008/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjay007008/Leetcode/tree/master/0229-majority-element-ii) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sanjay007008/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |
