@@ -32,6 +32,7 @@ Leetcode Solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sanjay007008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sanjay007008/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ Leetcode Solutions
 | [0062-unique-paths](https://github.com/Sanjay007008/Leetcode/tree/master/0062-unique-paths) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Sanjay007008/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sanjay007008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,4 +187,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanjay007008/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Enumeration
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sanjay007008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sanjay007008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
