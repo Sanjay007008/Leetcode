@@ -61,6 +61,7 @@ Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/Sanjay007008/Leetcode/tree/master/0013-roman-to-integer) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sanjay007008/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanjay007008/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sanjay007008/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Sanjay007008/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Backtracking
 |  |
@@ -88,6 +89,7 @@ Leetcode Solutions
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sanjay007008/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sanjay007008/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Leetcode Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjay007008/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sanjay007008/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sanjay007008/Leetcode/tree/master/0213-house-robber-ii) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sanjay007008/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Leetcode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanjay007008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanjay007008/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sanjay007008/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Sanjay007008/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
