@@ -59,6 +59,7 @@ Leetcode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjay007008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sanjay007008/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sanjay007008/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sanjay007008/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanjay007008/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sanjay007008/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -205,4 +206,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1762-furthest-building-you-can-reach](https://github.com/Sanjay007008/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sanjay007008/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
