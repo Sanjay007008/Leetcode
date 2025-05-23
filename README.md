@@ -21,6 +21,7 @@ Leetcode Solutions
 | [0118-pascals-triangle](https://github.com/Sanjay007008/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjay007008/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay007008/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Sanjay007008/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sanjay007008/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sanjay007008/Leetcode/tree/master/0213-house-robber-ii) |
@@ -120,6 +121,7 @@ Leetcode Solutions
 | [0048-rotate-image](https://github.com/Sanjay007008/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjay007008/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjay007008/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay007008/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,10 +221,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sanjay007008/Leetcode/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sanjay007008/Leetcode/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
