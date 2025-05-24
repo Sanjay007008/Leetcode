@@ -161,6 +161,7 @@ Leetcode Solutions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjay007008/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/Sanjay007008/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,13 +223,19 @@ Leetcode Solutions
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sanjay007008/Leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/Sanjay007008/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sanjay007008/Leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Sanjay007008/Leetcode/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/Sanjay007008/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sanjay007008/Leetcode/tree/master/0101-symmetric-tree) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Sanjay007008/Leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
