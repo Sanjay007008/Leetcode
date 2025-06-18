@@ -32,6 +32,7 @@ Leetcode Solutions
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanjay007008/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sanjay007008/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sanjay007008/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Sanjay007008/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sanjay007008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -79,6 +80,7 @@ Leetcode Solutions
 | [0050-powx-n](https://github.com/Sanjay007008/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sanjay007008/Leetcode/tree/master/0062-unique-paths) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/Sanjay007008/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sanjay007008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Prefix Sum
@@ -156,6 +158,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sanjay007008/Leetcode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Union Find
 |  |
 | ------- |
@@ -238,4 +241,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Sanjay007008/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
