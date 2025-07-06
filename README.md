@@ -28,6 +28,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/Sanjay007008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanjay007008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanjay007008/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sanjay007008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -154,6 +155,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sanjay007008/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sanjay007008/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Combinatorics
 |  |
 | ------- |
