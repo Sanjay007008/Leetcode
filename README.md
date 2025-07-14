@@ -81,6 +81,7 @@ Leetcode Solutions
 | [0050-powx-n](https://github.com/Sanjay007008/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sanjay007008/Leetcode/tree/master/0062-unique-paths) |
 | [0523-continuous-subarray-sum](https://github.com/Sanjay007008/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sanjay007008/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sanjay007008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/Sanjay007008/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sanjay007008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -187,6 +188,7 @@ Leetcode Solutions
 | [0206-reverse-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sanjay007008/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sanjay007008/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
